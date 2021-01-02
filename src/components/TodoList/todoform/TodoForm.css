@@ -1,0 +1,13 @@
+.input-box {
+  justify-content: flex-start;
+  display: flex;
+}
+
+.input-box input {
+  border: none;
+  background: transparent;
+  color: #909090;
+  font-size: 1.4rem;
+  outline: none;
+  width: 100%;
+}
